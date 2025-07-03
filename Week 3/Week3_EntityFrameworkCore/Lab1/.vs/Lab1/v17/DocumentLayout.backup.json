@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 3\\Week3_EntityFrameworkCore\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|Lab1.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 3\\week3_entityframeworkcore\\lab1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|Lab1.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|Lab1.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 3\\week3_entityframeworkcore\\lab1\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|Lab1.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|Lab1.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 3\\week3_entityframeworkcore\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A09178-86F8-11FE-228E-5C505B5C870A}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 3\\Week3_EntityFrameworkCore\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 3\\Week3_EntityFrameworkCore\\Lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:08:54.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 3\\Week3_EntityFrameworkCore\\Lab1\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 3\\Week3_EntityFrameworkCore\\Lab1\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:08:51.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 3\\Week3_EntityFrameworkCore\\Lab1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 3\\Week3_EntityFrameworkCore\\Lab1\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:08:52.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
