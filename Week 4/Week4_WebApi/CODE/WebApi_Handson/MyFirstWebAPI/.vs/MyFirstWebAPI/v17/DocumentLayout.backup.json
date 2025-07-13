@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\freya\\onedrive\\desktop\\cognizant\\learning-program-solutions\\week 4\\week4_webapi\\code\\webapi_handson\\myfirstwebapi\\myfirstwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5F1A6E-0AB2-48A2-8718-1A8ACFF6BB78}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:31:01.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Program.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:26:06.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:47:17.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:45:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:42:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Skill.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:41:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Department.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:41:01.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\freya\\OneDrive\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 4\\Week4_WebApi\\CODE\\WebApi_Handson\\MyFirstWebAPI\\MyFirstWebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:40:31.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
