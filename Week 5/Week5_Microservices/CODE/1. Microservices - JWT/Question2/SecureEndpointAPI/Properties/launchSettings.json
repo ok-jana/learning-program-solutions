@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SecureEndpointAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55322;http://localhost:55323"
+    }
+  }
+}

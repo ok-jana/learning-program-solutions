@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XJCccff9CAU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\freya\\Desktop\\COGNIZANT\\learning-program-solutions\\Week 5\\Week5_WebApi\\CODE\\6. WebApi_Handson\\ConsumerApp\\ConsumerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\freya\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
+    "C:\\Users\\freya\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\freya\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
